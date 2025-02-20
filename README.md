@@ -121,3 +121,21 @@ Error handling with React Error Boundaries
 Set Up Firebase :Add your Firebase config in firebaseConfig.js
 
 Run the App : npm start
+<h1>Starting page </h1>
+
+![WhatsApp Image 2025-02-21 at 00 12 53](https://github.com/user-attachments/assets/0825c198-3097-4b14-9849-52e057a344d8)
+
+<h1>Add task </h1>
+
+![WhatsApp Image 2025-02-21 at 00 15 43](https://github.com/user-attachments/assets/6b31834c-b08e-4932-a3bc-f1965a2d124f)
+
+<h1>Edit task </h1>
+
+![WhatsApp Image 2025-02-21 at 00 13 41](https://github.com/user-attachments/assets/04176979-89d3-4a55-bcf2-00d09c299f63)
+
+<h1>UI for KanbanBoard</h1>
+
+![WhatsApp Image 2025-02-21 at 00 13 16](https://github.com/user-attachments/assets/1d93b3d2-13bc-4623-96d4-a19b6a0b59aa)
+
+
+
