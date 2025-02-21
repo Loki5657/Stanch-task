@@ -4,6 +4,7 @@ import SearchFilter from "../components/SearchFilter";
 import TaskForm from "../components/TaskForm"; 
 import { useAuth } from "../context/AuthContext";
 import { useTasks } from "../context/TaskContext";
+import ActivityLog from "../components/ActivityLog";
 
 const Dashboard = () => {
   const { user, logout } = useAuth();
@@ -65,6 +66,9 @@ const Dashboard = () => {
           </div>
         </div>
       )}
+      <div className="w-full mt-20">
+        <ActivityLog />
+      </div>
     </div>
   );
 };
