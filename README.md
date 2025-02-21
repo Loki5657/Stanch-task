@@ -10,23 +10,10 @@ The Task Management App is a Kanban-style board where users can create, update, 
 
 Before running the app, create a Firebase project and add your Firebase config in firebaseConfig.js:
 
-// firebaseConfig.js
-import { initializeApp } from "firebase/app";
-import { getAuth } from "firebase/auth";
-import { getFirestore } from "firebase/firestore";
+// firebaseConfig in .env
+<br/>
+<img width="585" alt="Screenshot 2025-02-22 at 12 04 54 AM" src="https://github.com/user-attachments/assets/9b50a035-5ec5-4e9f-ac4d-656899b87800" />
 
-const firebaseConfig = {
-  apiKey: "YOUR_API_KEY",
-  authDomain: "YOUR_AUTH_DOMAIN",
-  projectId: "YOUR_PROJECT_ID",
-  storageBucket: "YOUR_STORAGE_BUCKET",
-  messagingSenderId: "YOUR_MESSAGING_SENDER_ID",
-  appId: "YOUR_APP_ID",
-};
-
-const app = initializeApp(firebaseConfig);
-export const auth = getAuth(app);
-export const db = getFirestore(app);
 
 📌 Features & Functionality
 
@@ -137,5 +124,10 @@ Run the App : npm start
 
 ![WhatsApp Image 2025-02-21 at 00 13 16](https://github.com/user-attachments/assets/1d93b3d2-13bc-4623-96d4-a19b6a0b59aa)
 
+<h1>Filter by priority</h1>
+<img width="1440" alt="Screenshot 2025-02-22 at 12 02 39 AM" src="https://github.com/user-attachments/assets/283d5356-18a5-4279-bd3e-c5a850dd8a68" />
+
+<h1>Active Logs </h1>
+<img width="1434" alt="Screenshot 2025-02-22 at 12 03 35 AM" src="https://github.com/user-attachments/assets/606df559-fad9-4a5f-99fb-e28cf9e6aa68" />
 
 
