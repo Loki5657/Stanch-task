@@ -137,5 +137,9 @@ Run the App : npm start
 
 ![WhatsApp Image 2025-02-21 at 00 13 16](https://github.com/user-attachments/assets/1d93b3d2-13bc-4623-96d4-a19b6a0b59aa)
 
+<h1>Filter by priority</h1>
+<img width="1440" alt="Screenshot 2025-02-21 at 10 37 09 PM" src="https://github.com/user-attachments/assets/c9ba021e-8882-4641-80e6-5fbf1b1850a4" />
+<h1>Active Logs </h1>
+<img width="1440" alt="Screenshot 2025-02-21 at 10 37 20 PM" src="https://github.com/user-attachments/assets/58046f4a-1a1c-41a8-9020-4d9dc521792f" />
 
 
